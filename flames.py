@@ -1,3 +1,5 @@
+#Simples Flames program
+
 def flames_predictor(name1, name2):
 
 	name1 = name1.replace(' ', '').lower()
