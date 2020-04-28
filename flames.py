@@ -1,4 +1,4 @@
-#Simples Flames program
+#Simple flames game
 
 def flames_predictor(name1, name2):
 
